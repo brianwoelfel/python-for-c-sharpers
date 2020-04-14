@@ -1,0 +1,85 @@
+C#
+C#
+C# 
+Start
+Example 1 - demonstrate nesting and white space
+Example 2 - collections
+
+Example 3 - function declarataion
+a;b;c
+
+Example 4 - strings and quotes
+Simple string - The quick brown fox
+Preserve escape char literals - \tTab and newline\n
+Expand variables - The quick brown fox
+Preserve embedded newlines -
+The quick brown fox
+jumped over
+the lazy dog.
+
+Example 5 - string concatenation
+When I am outside a function I have to manually concatenate strings and use backslash line continuation
+
+Example 6 - truthiness
+Variable 'no_value' has a value
+Variable 'empty_string' has no value
+Variable 'white_space' has no value
+Variable 'normal_string' has a value
+Variable 'empty_list' has no value
+Variable 'non_empty_list' has a value
+Variable 'empty_dict' has no value
+Variable 'non_empty_dict' has a value
+Example 7 - conditional operator
+The list a,b,c contains 3 items
+The list a contains 1 item
+Example 8 - iterate list
+Item: a
+Item: b
+Item: c
+Item: o
+Item: o
+Item: p
+Item: s
+Example 9 - iterate dictionary
+Breed: dogs
+  Name: James
+  Breed: Bulldog
+  Color: Brown
+
+  Name: George
+  Breed: Greyhound
+  Color: Brindle
+
+Breed: cats
+  Name: Henry
+  Breed: Shorthair
+  Color: White
+
+  Name: Phillip
+  Breed: Siamese
+  Color: Gray
+
+Example 10 - filter, map, and sort
+Employees in PA:
+Henrietta: Guard
+James: Manager
+
+Example 11 - error handling
+error: System.DivideByZeroException: Attempted to divide by zero.
+   at PythonForCSharpers.Program.Example11() in C:\code\python-for-c-sharpers\DotNet\PythonForCSharpers\Program.cs:line 367
+finally, c=0
+
+Example 12 - variable scope
+
+Example 13 - classes
+Species: gorilla, name: Koko
+
+Example 14 - variable arguments
+arg=z
+arg=a
+arg=b
+arg=c
+
+Example 15 - check type
+abc is a string
+123 is an integer
