@@ -123,7 +123,7 @@ def my_join_function(my_list: list, separator: str = ',') -> str:
 
 
 def example_3():
-    print('Example 3 - function declaration')
+    print('Example 3 - function declarvation')
     print(my_join_function(['a', 'b', 'c'], ';'))
 
 
